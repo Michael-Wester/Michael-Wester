@@ -29,4 +29,4 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Wester&theme=dark&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Wester&theme=light&mode=weekly)
