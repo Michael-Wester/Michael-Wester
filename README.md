@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Michael-Wester/Michael-Wester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+Python, Java, C#, HTML5, CSS3, JavaScript, JSON, Markdown
 
-Here are some ideas to get you started:
+Technologies:
+Git, Azure, React, Node.js, NPM, Prettier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social:
+Linkedin
+Github
+
+
+Gaming:
+Riot Games
+Battle.net
+Steam
+
+Github stats
+Github streaks
+Github language %
+
